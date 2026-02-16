@@ -7,7 +7,7 @@ This project demonstrates an end-to-end ML workflow from data preprocessing to m
 
 ## 🚀 Live Demo
 
-👉 (Add your Streamlit app link here after deployment)
+👉 https://diabetes-prediction-521.streamlit.app/
 
 ---
 
